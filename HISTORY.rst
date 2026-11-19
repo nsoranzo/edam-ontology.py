@@ -9,7 +9,8 @@ History
 1.25.4 ()
 ---------------------
 
-* Drop support for Python 3.9 .
+* Drop support for Python 3.9-3.10 .
+* Add support for Python 3.15 .
 
 ---------------------
 1.25.3 (2025-10-30)
